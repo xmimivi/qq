@@ -1,1 +1,2 @@
-# -
+login root
+password root
